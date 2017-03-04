@@ -1,3 +1,4 @@
+这是一个运用vue2.0 vuex写的一个购物车demo
 # shopcar
 
 > A Vue.js project
